@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"<lobby>\/maps\/c3oc.json#start_c3woc}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -355,7 +355,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
