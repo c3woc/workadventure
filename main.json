@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#gameStart"
+                 "value":"see.json#gameStart"
                 }],
          "type":"tilelayer",
          "visible":true,
