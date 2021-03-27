@@ -352,7 +352,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"audio\/stolen-moments.mp3"
+                 "value":"assets\/he01-c3woc_waffelwissen.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
