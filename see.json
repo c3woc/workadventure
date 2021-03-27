@@ -263,7 +263,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"audio\/coin.mp3"
+                 "value":"assets\/coin.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -375,7 +375,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"audio\/coin.mp3"
+                 "value":"assets\/coin.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
