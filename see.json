@@ -286,7 +286,7 @@
          "name":"boden_2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
@@ -298,7 +298,7 @@
          "name":"boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
@@ -310,7 +310,7 @@
          "name":"Grass",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":58,
          "x":0,
          "y":0
@@ -754,15 +754,6 @@
                 }, 
                 {
                  "id":71,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":163,
                  "properties":[
                         {
                          "name":"collides",
