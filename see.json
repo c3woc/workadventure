@@ -109,7 +109,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"\"assets\/party.mp3\""
+                 "value":"assets\/party.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
