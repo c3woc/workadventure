@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"rc3.c-base.org\/divoc-map\/main.json"
+                 "value":"..\/..\/rc3.c-base.org\/divoc-map\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
