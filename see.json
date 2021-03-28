@@ -107,7 +107,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"assets\/party.mp3"
                 }],
