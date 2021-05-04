@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/rc3.c-base.org\/divoc-map\/ring1\/main.json#entryC3WOC"
+                 "value":"\/_\/global\/rc3.c-base.org\/map\/ring1\/main.json#entryC3WOC"
                 }],
          "type":"tilelayer",
          "visible":true,
